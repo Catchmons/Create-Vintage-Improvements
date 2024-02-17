@@ -42,8 +42,8 @@
 	"vintageimprovements.recipe.coiling": "卷制",
 	
 	"block.vintageimprovements.vacuum_chamber": "真空机",
-	"create.recipe.assembly.vacuumizing": "真空装填",
-	"vintageimprovements.recipe.vacuumizing": "真空装填",
+	"create.recipe.assembly.vacuumizing": "抽真空",
+	"vintageimprovements.recipe.vacuumizing": "真空抽取",
 	
 	"block.vintageimprovements.vibrating_table": "",
 	"create.recipe.assembly.vibrating": "振击",
